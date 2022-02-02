@@ -1,0 +1,5 @@
+states/
+_apalache-out/
+*.jar
+tlc.txt
+apalache.txt
